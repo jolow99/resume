@@ -42,23 +42,38 @@
 
 = Joseph Low
 
-jolow999\@gmail.com | #link("https://jolow.me")[jolow.me] | #link("https://github.com/jolow99")[github.com/jolow99] | #link("https://www.linkedin.com/in/joseph-low-bc/")[linkedin.com/in/joseph-low-bc]
+jolow999\@gmail.com | #link("https://jolow.me")[jolow.me] | #link("https://github.com/jolow99")[github.com/jolow99] | #link("https://www.linkedin.com/in/joseph-low-bc/")[linkedin.com/in/jolow]
 
 == Education
 #chiline()
 
-*Singapore University of Technology and Design* #h(1fr) May 2020 -- May 2025 \
+*Singapore University of Technology and Design (SUTD)* #h(1fr) May 2020 -- May 2025 \
 M.Sc in Technology Entrepreneurship, B.Sc in Design and Artificial Intelligence (DAI) #h(1fr) GPA: 4.69/5 \
 - Pioneer batch of DAI, a CS/HCI interdisciplinary programme; Awarded honours list as top 10% in the cohort
 - STEP scholar, a fully-funded integrated masters; Conducted ethnographic research on a community for master's thesis
 - Coursework: Machine Learning, Applied Deep Learning, Computational Data Science, HCI and AI
 
-*National University of Singapore (Exchange)* #h(1fr) Aug 2022 -- Jul 2023 \
+*National University of Singapore (NUS) * #h(1fr) Aug 2022 -- Jul 2023 \
 - Selected for a 1-year entrepreneurship program under NUS Overseas Colleges working with a startup in New York
 - Coursework: New Venture Creation, Start-up Case Study & Analysis
 
 *Aalto University (Exchange)* #h(1fr) Aug 2023 -- Dec 2023 \
 - Coursework: Cryptography, Translational Engineering, Digital Business Management, 
+
+== Research Experience
+#chiline()
+
+*Research Fellow* | *#link("https://www.cai-research-fellowship.com/")[Cooperative AI Research Fellowship]* #h(1fr) Jan 2026 -- Present \
+- Researching how AI agents can facilitate deliberative democracy; Mentored by Dr. Michiel Bakker
+
+*Research Collaborator* *#link("https://github.com/cosilab")[Cooperative Systems & Intelligence (CoSI) Lab], NUS* #h(1fr) Aug 2025 -- Present  \
+- Built a Bayesian computational model and web-app for ad-hoc role specialization in multi-agent systems; Ran human experiments on Prolific; Abstract submitted to CogSci 2026; Worked with Dr. Tan Zhi-Xuan
+
+*Research Collaborator* | *#link("https://publicai.network/")[Public AI Network]* #h(1fr) Oct 2025 -- Jan 2026 \
+- Analyzed the sustainability of open-source AI initiatives and proposed frameworks for public AI infrastructure; Position paper submitted to ICML 2026; Worked with Dr. Joshua Tan et al.
+
+*Research Collaborator* | *#link("https://artificial-architecture.ai/")[artificial-architecture.ai], SUTD* #h(1fr) Sep 2024 -- Dec 2024 \
+- Trained CNNs to predict perception of 3D architectural objects from EEG and eye-tracking data, measuring unconscious spatial preferences to improve design workflows; Worked with Dr. Immanuel Koh
 
 == Work Experience
 #chiline()
@@ -89,18 +104,26 @@ M.Sc in Technology Entrepreneurship, B.Sc in Design and Artificial Intelligence 
 *Service Design Consultant | #link("https://kpmg.com/sg/en/services/digital-village.html")[KPMG Digital Village]* #h(1fr) Jan 2020 -- Mar 2020 \
 - Conducted user research and prototyping leading to comprehensive legal sector workflow revamp
 
-== Projects 
+== Selected Projects 
 #chiline()
 
-#link("https://complain.sg")[*Complain.sg*]: #h(1fr) Aug 2025 -- Sep 2025 \
-- A platform to "complain better" facilitated by AI agents; FastAPI/Pocketflow backend, Vite/React frontend
+#link("https://github.com/OzDuys/habermolt")[*HaberMolt*]: #h(1fr) Jan 2026 -- Present \
+- A platform where humans can send their OpenClaw agents to participate in deliberations on their behalf
+
+#link("https://github.com/jolow99/complainsg")[*Complain.sg*]: #h(1fr) Aug 2025 -- Sep 2025 \
+- A platform to "complain better" facilitated by AI agents 
+
 
 #link("https://www.jolow.me/assets/pdfs/public-ai-sg.pdf")[*Public AI in Singapore: Towards a Singapore AI-Lines*] #h(1fr) Jan 2025 -- Jun 2025 \
 - Authored a comprehensive research report analyzing Singapore's public AI infrastructure and governance landscape
 
-#link("https://www.linkedin.com/posts/gordongn_do-we-have-unique-and-measurable-spatial-ugcPost-7274627805139628034-eaLo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3fa1cB2olLn13gPIVevC5rTEqf75QBuC4")[*Measuring unconscious spatial preferences to improve design workflows in architecture*] #h(1fr) Sep 2024 -- Dec 2024 \
-- Using CNNs to predict perception of 3D objects based on EEG and eye-tracking data 
-#pagebreak()
+== Honours & Awards
+#chiline()
+
+- *SUTD Honours List* -- Junior, Sophomore, and Senior years #h(1fr) 2021 -- 2025
+- *Best Combat Unit*, 1st Commando Battalion (1 CDO) #h(1fr) 2019
+- *Anglo-Chinese Junior College Valedictorian* and *Principal's Honours Roll* #h(1fr) 2017
+
 == Others
 #chiline()
 
@@ -116,19 +139,19 @@ Scaled Singapore \
 - Generated 5-figures worth of sales to date
 
 *Hackathons* \
-- 1st place JunctionX Asia – Reducing food waste using computer vision (Jun 2020)
-- 1st place HackHarvard – Personal data analytics platform (Oct 2022)
-- 1st place HackRPI – Hyperlocal social app for rocket launches (Nov 2022)
-- 1st place ETHDenver – Directing DeFi yields for funding public goods (Mar 2023)
-- 1st place COH – Directing contract secured revenue for public goods (May 2023)
+- 1st place JunctionX Asia – Reducing food waste using computer vision #h(1fr) Jun 2020
+- 1st place HackHarvard – Personal data analytics platform #h(1fr) Oct 2022
+- 1st place HackRPI – Hyperlocal social app for rocket launches#h(1fr) Nov 2022 
+- 1st place ETHDenver – Directing DeFi yields for funding public goods #h(1fr) Mar 2023
+- 1st place COH – Directing contract secured revenue for public goods #h(1fr)May 2023
 
 *Hobbies* \
-- Migrated from QWERTY to Colemak Mod-DH keyboard layout at up to 170 words per minute (2021)
-- Won a beer mile (Mikkeller Running Club Helsinki) (Sep 2023)
-- Won a coffee competition (Finnish Moccamaster Championships 2023) (Oct 2023)
-- Completed Buff Forest Force Run 50KM (Sep 2024)
-- Completed Lucky 88.88KM Ultra Marathon (Feb 2025)
-- Completed Vietnam Ultra Marathon 75KM (Mar 2025)
+- Migrated from QWERTY to Colemak Mod-DH keyboard layout at up to 170 words per minute #h(1fr) Nov 2021 
+- Won a beer mile (Mikkeller Running Club Helsinki) #h(1fr) Sep 2023
+- Won a coffee competition (Finnish Moccamaster Championships 2023) #h(1fr) Oct 2023 
+- Completed Buff Forest Force Run 50KM #h(1fr) Sep 2024
+- Completed Lucky 88.88KM Ultra Marathon #h(1fr) Feb 2025
+- Completed Vietnam Ultra Marathon 75KM #h(1fr) Mar 2025
 
 // Feel free to change the date below to the last time you updated your CV
-#lastupdated("Sep 27, 2025")
+#lastupdated("Feb 8, 2026")
