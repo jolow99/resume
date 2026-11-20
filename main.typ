@@ -63,24 +63,27 @@ M.Sc in Technology Entrepreneurship, B.Sc in Design and Artificial Intelligence 
 == Research Experience
 #chiline()
 
-*Research Fellow* | *#link("https://www.cai-research-fellowship.com/")[Cooperative AI Research Fellowship]* #h(1fr) Jan 2026 -- Present \
-- Researching how AI agents can facilitate deliberative democracy; Mentored by Dr. Michiel Bakker
+*Research Fellow* | *#link("https://www.cai-research-fellowship.com/")[Cooperative AI Research Fellowship]* #h(1fr) Jan 2026 -- May 2026 \
+- Researched how AI agents can facilitate deliberative democracy; Mentored by Prof. Michiel Bakker
 
-*Research Collaborator* *#link("https://github.com/cosilab")[Cooperative Systems & Intelligence (CoSI) Lab], NUS* #h(1fr) Aug 2025 -- Present  \
-- Built a Bayesian computational model and web-app for ad-hoc role specialization in multi-agent systems; Ran human experiments on Prolific; Abstract submitted to CogSci 2026; Worked with Dr. Tan Zhi-Xuan
+*Research Collaborator* | *#link("https://github.com/cosilab")[Cooperative Systems & Intelligence (CoSI) Lab], NUS* #h(1fr) Aug 2025 -- Present  \
+- Built a Bayesian model of role specialization in multi-agent systems with human experiments; with Prof. Tan Zhi-Xuan
 
 *Research Collaborator* | *#link("https://publicai.network/")[Public AI Network]* #h(1fr) Oct 2025 -- Jan 2026 \
-- Analyzed the sustainability of open-source AI initiatives and proposed frameworks for public AI infrastructure; Position paper submitted to ICML 2026; Worked with Dr. Joshua Tan et al.
+- Co-authored a position paper on public AI infrastructure; *ICML 2026 Spotlight*; with Dr. Joshua Tan et al.
 
 *Research Collaborator* | *#link("https://artificial-architecture.ai/")[artificial-architecture.ai], SUTD* #h(1fr) Sep 2024 -- Dec 2024 \
-- Trained CNNs to predict perception of 3D architectural objects from EEG and eye-tracking data, measuring unconscious spatial preferences to improve design workflows; Worked with Dr. Immanuel Koh
+- Trained CNNs to predict perception of 3D architectural forms from EEG and eye-tracking data; with Prof. Immanuel Koh
 
 == Work Experience
 #chiline()
 
-*Research Engineer | #link("https://metagov.org/")[Metagov]* #h(1fr) Aug 2024 -- Present \
+*Senior Software Engineer | #link("https://www.change.org/")[Change.org]* #h(1fr) May 2026 -- Present \
+- Architecting our approach to scaling how we elicit and interpret public input, towards autonomous policy generation
+- Building an agentic policy engine in LangGraph with LangSmith evals; Policies deliberated at city and national levels
 
-- Achieved 20K+ users at launch of the #link("https://publicai.co/")[Public AI Inference Utility] ; Orchestrated deployment of multiple replicas of a 70B model on vLLM; Managed k8s clusters of Open WebUI and LiteLLM; Became an official Hugging Face inference provider
+*Research Engineer | #link("https://metagov.org/")[Metagov]* #h(1fr) Aug 2024 -- Dec 2025 \
+- Launched the #link("https://publicai.co/")[Public AI Inference Utility] (20K+ users); Served 70B models on vLLM + k8s; Official Hugging Face provider
 - Raised funds for and launched the #link("https://daostar.org/")[DAOstar] research fellowship; Organized DAO Asia Summit at Devcon 2024
 
 *Smart Contract Architect | #link("https://www.treehouse.finance/")[Treehouse Finance]* #h(1fr) Apr 2024 -- Jul 2024 \
@@ -104,11 +107,18 @@ M.Sc in Technology Entrepreneurship, B.Sc in Design and Artificial Intelligence 
 *Service Design Consultant | #link("https://kpmg.com/sg/en/services/digital-village.html")[KPMG Digital Village]* #h(1fr) Jan 2020 -- Mar 2020 \
 - Conducted user research and prototyping leading to comprehensive legal sector workflow revamp
 
-== Selected Projects 
+== Publications & Projects
 #chiline()
 
+#link("https://openreview.net/forum?id=zN7zY1UVru")[*Position: If Open Source Is to Win, It Must Go Public*] #h(1fr) Jul 2026 \
+- *ICML 2026 Position Track (Spotlight)*; J. Tan, N. Vincent, K. Elkins, M. Sahlgren, *J. Low*, D. Pham, S. Pyysalo, J. Jitsev
+
+#link("https://openreview.net/forum?id=zvRcvWX7k6")[*Habermolt: Delegating Deliberation to AI Representatives*] #h(1fr) Jul 2026 \
+- *AI4GOOD Workshop \@ ICML 2026*; *J. Low*, O. Duys, C. Formanek, L. Hammond, M. Bakker
+
+
 #link("https://github.com/OzDuys/habermolt")[*HaberMolt*]: #h(1fr) Jan 2026 -- Present \
-- A platform where humans can send their OpenClaw agents to participate in deliberations on their behalf
+- A platform where humans send their OpenClaw agents to deliberate on their behalf; Featured on the #link("https://www.cooperativeai.com/post/delegating-deliberation-to-ai-representatives")[Cooperative AI blog]
 
 #link("https://github.com/jolow99/complainsg")[*Complain.sg*]: #h(1fr) Aug 2025 -- Sep 2025 \
 - A platform to "complain better" facilitated by AI agents 
@@ -152,6 +162,8 @@ Scaled Singapore \
 - Completed Buff Forest Force Run 50KM #h(1fr) Sep 2024
 - Completed Lucky 88.88KM Ultra Marathon #h(1fr) Feb 2025
 - Completed Vietnam Ultra Marathon 75KM #h(1fr) Mar 2025
+- Completed Ultra-Trail Australia 50KM #h(1fr) May 2025
+- Completed Lake Toba by UTMB 100KM #h(1fr) Jun 2026
 
 // Feel free to change the date below to the last time you updated your CV
-#lastupdated("Feb 8, 2026")
+#lastupdated("Nov 20, 2026")
